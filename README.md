@@ -29,9 +29,9 @@ To run this project, you only need a web browser. No additional software or libr
 Code Structure:
 
 login-form/
-├── index.html       # Main HTML file
-├── styles.css       # Styles for the login form
-└── script.js        # JavaScript for password visibility toggle
+├── index.html       
+├── styles.css       
+└── script.js        
 
 
 Contributing:
